@@ -1,0 +1,19 @@
+h1 {
+    color: wheat;
+    text-align: center;
+}
+h2{
+    color: wheat;
+    text-align: center;
+}
+h3{
+    color: wheat;
+    text-align: center;
+}
+
+body{
+    background-image: url("/images/pizarron.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
